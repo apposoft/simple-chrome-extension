@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Apposoft Launcher",
+  "version": "1.0.0",
+  "description": "Qucik launch Apposoft India",
+  "icons": {"128": "logo128.png"},
+  "browser_action": {
+    "default_icon": "logo19.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
